@@ -21,7 +21,7 @@ Train detection with VL53L4CD laser sensor: https://www.youtube.com/watch?v=Fls3
 
 How to mount cover glass on VL53L4CD laser: https://www.youtube.com/watch?v=iU56pOXOom8
 
-How to mount cover glass on VL53L4CD laser with adapter: https://www.youtube.com/watch?v=jtEEJr7BvrM
+How to mount cover glass on VL53L4CD laser with **adapter**: https://www.youtube.com/watch?v=jtEEJr7BvrM
 
 <br/>
 
