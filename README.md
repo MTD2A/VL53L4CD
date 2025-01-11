@@ -15,6 +15,18 @@ Jørgen Bo Madsen - august 2024 - STM@jorgen-madsen.dk
 
 <br/>
 
+### Blocing Detection
+
+<img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Sensor%20blocking%20detection%20NEW.png" height="300">
+
+<br/>
+
+### Sideways Detection
+
+<img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Sensor%20sideways.png" height="300">
+
+<br/>
+
 ### Youtube demo and instruction videos
 
 Train detection with VL53L4CD laser sensor: https://www.youtube.com/watch?v=Fls3YJwM_Pg
@@ -36,4 +48,8 @@ VL53L4CD cover window adapter gasket https://www.thingiverse.com/thing:6835045
 
 ![](/image/I2C%20schematic%20test%20setup.png)
 
+<br/>
 
+### Round Robin
+
+<img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Round%20Robin.png" height="220">
