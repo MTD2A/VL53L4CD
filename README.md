@@ -25,6 +25,15 @@ How to mount cover glass on VL53L4CD laser with **adapter**: https://www.youtube
 
 <br/>
 
+### 3d-print
+
+
+VL53L4CD cover window adapter gasket https://www.thingiverse.com/thing:6835045
+
+<br/>
+
 ### I2C schematic test setup
 
 ![](/image/I2C%20schematic%20test%20setup.png)
+
+
