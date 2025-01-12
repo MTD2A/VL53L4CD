@@ -44,6 +44,14 @@ VL53L4CD cover window adapter gasket https://www.thingiverse.com/thing:6835045
 
 <br/>
 
+### Links
+
+STM Arduino Libraries: https://github.com/STM32duino
+
+STM Community: https://community.st.com/
+
+<br/>
+
 ### I2C schematic test setup
 
 ![](/image/I2C%20schematic%20test%20setup.png)
