@@ -37,7 +37,7 @@ How to mount cover glass on VL53L4CD laser with **adapter**: https://www.youtube
 
 <br/>
 
-### 3d-print
+### 3D-print
 
 
 VL53L4CD cover window adapter gasket https://www.thingiverse.com/thing:6835045
