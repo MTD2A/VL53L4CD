@@ -17,38 +17,38 @@ Jørgen Bo Madsen - august 2024 - STM@jorgen-madsen.dk
 
 ### Blocing Detection
 
-<img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Sensor%20blocking%20detection%20NEW.png" height="300">
+<img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Sensor%20blocking%20detection%20NEW.png" height="300" width="532">
 
 <br/>
 
 ### Sideways Detection
 
-<img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Sensor%20sideways.png" height="300">
+<img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Sensor%20sideways.png" height="300" width="565">
 
 <br/>
 
 ### Youtube demo and instruction videos
 
-Train detection with VL53L4CD laser sensor: https://www.youtube.com/watch?v=Fls3YJwM_Pg
+[Train detection with VL53L4CD laser sensor](https://www.youtube.com/watch?v=Fls3YJwM_Pg)
 
-How to mount cover glass on VL53L4CD laser: https://www.youtube.com/watch?v=iU56pOXOom8
+[How to mount cover glass on VL53L4CD laser](https://www.youtube.com/watch?v=iU56pOXOom8)
 
-How to mount cover glass on VL53L4CD laser with **adapter**: https://www.youtube.com/watch?v=jtEEJr7BvrM
+[How to mount cover glass on VL53L4CD laser with **adapter**](https://www.youtube.com/watch?v=jtEEJr7BvrM)
 
 <br/>
 
 ### 3D-print
 
 
-VL53L4CD cover window adapter gasket https://www.thingiverse.com/thing:6835045
+[VL53L4CD cover window adapter gasket](https://www.thingiverse.com/thing:6835045)
 
 <br/>
 
 ### Links
 
-STM Arduino Libraries: https://github.com/STM32duino
+[STM Arduino Libraries](https://github.com/STM32duino)
 
-STM Community: https://community.st.com/
+[STM Community](https://community.st.com/)
 
 <br/>
 
