@@ -11,7 +11,7 @@ REMEMBER! disconnet power briefly to all sensors and Arduino MCU for correct res
 
 Please read the accompanying detailed documentation
 
-Jørgen Bo Madsen - august 2024 - STM@jorgen-madsen.dk
+Jørgen Bo Madsen - august 2024 - DGMF@jorgen-madsen.dk
 
 <br/>
 
