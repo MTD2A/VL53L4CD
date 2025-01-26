@@ -1,5 +1,5 @@
 
-# VL53L4CD and 4/8 channel MUX
+# VL53L4CD laser and 4/8 channel MUX
 
 VL53L4CD I2C Time of Flight Micro Distance Sensor and close-up sensor blocking detection.
 Fast ranging 10 ms loop robust and error-correcting functionality with detailed error descriptions
