@@ -1,17 +1,10 @@
 
-# VL53L4CD laser and 4/8 channel MUX
+# VL53L4CD digital laser rangefinder (formerly VL6180X)
+# I2C 4/8 channel mulltiplexer
 
-VL53L4CD I2C Time of Flight Micro Distance Sensor and close-up sensor blocking detection.
-Fast ranging 10 ms loop robust and error-correcting functionality with detailed error descriptions
-The program is coded with a focus on simplicity, ease of understanding and self-explanatory.
+<br/>
 
-Support TCA9548A / PCA9548A 8-Channel I2C Multiplexer and TCA9546A / PCA9546A 4-Channel I2C Multiplexer.
-
-REMEMBER! disconnet power briefly to all sensors and Arduino MCU for correct reset!
-
-Please read the accompanying detailed documentation
-
-Jørgen Bo Madsen - august 2024 - DGMF@jorgen-madsen.dk
+![](/image/VL53L4CD%20description.png)
 
 <br/>
 
@@ -61,3 +54,7 @@ Jørgen Bo Madsen - august 2024 - DGMF@jorgen-madsen.dk
 ### Round Robin
 
 <img src="https://github.com/MTD2A/VL53L4CD/blob/main/image/Round%20Robin.png" height="220">
+
+<br/>
+
+Dokumentation: [Laser aftandsmåler VL53L4CD](https://github.com/MTD2A/VL53L4CD/blob/main/doc/Laser%20afstandsm%C3%A5ler%20VL53L4CD%20V2.pdf)
