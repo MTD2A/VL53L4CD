@@ -57,4 +57,11 @@
 
 <br/>
 
-Dokumentation: [Laser aftandsmåler VL53L4CD](https://github.com/MTD2A/VL53L4CD/blob/main/doc/Laser%20afstandsm%C3%A5ler%20VL53L4CD%20V2.pdf)
+## Dokumentation
+
+[Laser aftandsmåler VL53L4CD](https://github.com/MTD2A/VL53L4CD/blob/main/doc/Laser%20afstandsm%C3%A5ler%20VL53L4CD%20V2.pdf)
+
+## Fuld dokumentation
+
+[V6 Nødstop for lokomotiver med Massoth dekoder og Power Cap.pdf](https://github.com/MTD2A/Train_Emergency_Stop/blob/main/doc/V6%20N%C3%B8dstop%20for%20lokomotiver%20med%20Massoth%20dekoder%20og%20Power%20Cap.pdf)
+
