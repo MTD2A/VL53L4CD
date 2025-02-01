@@ -57,6 +57,12 @@
 
 <br/>
 
+### I2Cprotocol 1 meter wire
+
+![](/image/PicoScope%20I2C%20100%20kHz.png)
+
+<br/>
+
 ## Dokumentation
 
 [Laser aftandsmåler VL53L4CD](https://github.com/MTD2A/VL53L4CD/blob/main/doc/Laser%20afstandsm%C3%A5ler%20VL53L4CD%20V2.pdf)
