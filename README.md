@@ -1,5 +1,5 @@
 
-# VL53L4CD digital laser rangefinder (formerly VL6180X)
+# VL53L4CD digital laser rangefinder (VL6180X)
 # I2C 4/8 channel mulltiplexer
 
 <br/>
@@ -60,6 +60,16 @@
 ### I2C protocol 1 meter wire
 
 ![](/image/PicoScope%20I2C%20100%20kHz.png)
+
+<br/>
+
+### Arduino configuration
+
+![](/image/VL53l4CD-configuration-part-1.png)
+
+![](/image/VL53l4CD-configuration-part-2.png)
+
+![](/image/VL53l4CD-configuration-part-3.png)
 
 <br/>
 
